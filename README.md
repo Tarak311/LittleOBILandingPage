@@ -1,2 +1,2 @@
-# LittleOBILandingPage
-Basic landing page for LittleOBI service with authentication provided by NimbusApp
+# learn-fullstack-javascript
+Learning Fullstack JavaScript Development: MongoDB, Node.js, React.js
